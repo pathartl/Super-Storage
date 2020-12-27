@@ -433,8 +433,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <element name="PF2" library="wirepad" library_urn="urn:adsk.eagle:library:412" package="2,15/1,0" package3d_urn="urn:adsk.eagle:package:30831/1" value="" x="8.128" y="23.368" smashed="yes">
 <attribute name="VALUE" x="8.128" y="24.368" size="0.0254" layer="27"/>
 </element>
-<element name="PF1" library="wirepad" library_urn="urn:adsk.eagle:library:412" package="2,15/1,0" package3d_urn="urn:adsk.eagle:package:30831/1" value="" x="3.048" y="25.908" smashed="yes">
-<attribute name="VALUE" x="3.048" y="26.908" size="0.0254" layer="27"/>
+<element name="PF1" library="wirepad" library_urn="urn:adsk.eagle:library:412" package="2,15/1,0" package3d_urn="urn:adsk.eagle:package:30831/1" value="" x="3.048" y="25.908" smashed="yes" rot="R90">
+<attribute name="VALUE" x="2.048" y="25.908" size="0.0254" layer="27" rot="R90"/>
 </element>
 <element name="PF0" library="wirepad" library_urn="urn:adsk.eagle:library:412" package="2,15/1,0" package3d_urn="urn:adsk.eagle:package:30831/1" value="" x="5.588" y="25.908" smashed="yes">
 <attribute name="VALUE" x="5.588" y="26.908" size="0.0254" layer="27"/>
